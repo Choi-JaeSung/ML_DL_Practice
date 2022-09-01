@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cats_bb</folder>
+	<filename>00000003_012.jpg</filename>
+	<path>C:\Workspace\MyML\Dataset\cats_bb\00000003_012.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>484</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>68</xmin>
+			<ymin>78</ymin>
+			<xmax>209</xmax>
+			<ymax>209</ymax>
+		</bndbox>
+	</object>
+</annotation>
